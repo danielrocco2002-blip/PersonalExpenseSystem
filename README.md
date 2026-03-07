@@ -1,7 +1,4 @@
 # Sistema di Gestione delle spese personali e del budget
-
-Sistema console per la gestione delle spese personali con database SQLite.
-
 ## Struttura del repository
 
 ```
@@ -53,9 +50,9 @@ PersonalExpenseSystem/
 | `UNIQUE`      | budget      | coppia `(mese, categoria_id)`                |
 | `NOT NULL`    | tutte       | campi obbligatori (nome, data, importo, ...) |
 
-## Istruzioni di Avvio
+## Istruzioni di avvio
 
-### 1. Clonrea il repository
+### 1. Clonarea il repository
 
 ```bash
 git clone https://github.com/nomeutente/PersonalExpenseSystem.git
