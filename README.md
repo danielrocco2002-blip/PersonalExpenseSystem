@@ -1,4 +1,4 @@
-# Sistema di Gestione delle Spese Personali e del Budget
+# Sistema di Gestione delle spese personali e del budget
 
 Sistema console per la gestione delle spese personali con database SQLite.
 
