@@ -9,7 +9,7 @@ PersonalExpenseSystem/
 ├── sql/
 │   └── database.sql   # Script SQL (DDL + dati di esempio + query)
 ├── demo/
-│   └── demo_video.mp4 # Video dimostrativo
+│   └── videodimostrativo.mp4 # Video dimostrativo
 └── README.md
 ```
 
