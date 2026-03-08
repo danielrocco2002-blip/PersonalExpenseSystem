@@ -1,12 +1,3 @@
--- ============================================================
--- SISTEMA DI GESTIONE DELLE SPESE PERSONALI E DEL BUDGET
--- Script SQL — Creazione database, vincoli e dati di esempio
--- ============================================================
-
--- ─────────────────────────────────────────────
--- 1. CREAZIONE TABELLE
--- ─────────────────────────────────────────────
-
 -- Tabella CATEGORIE
 CREATE TABLE IF NOT EXISTS categorie (
     id   INTEGER PRIMARY KEY AUTOINCREMENT,
