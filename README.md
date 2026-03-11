@@ -52,10 +52,10 @@ PersonalExpenseSystem/
 
 ## Istruzioni di avvio
 
-### 1. Clonarea il repository
+### 1. Clonare il repository
 
 ```bash
-git clone https://github.com/nomeutente/PersonalExpenseSystem.git
+git clone https://github.com/danielrocco2002-blip/PersonalExpenseSystem
 cd PersonalExpenseSystem
 ```
 
